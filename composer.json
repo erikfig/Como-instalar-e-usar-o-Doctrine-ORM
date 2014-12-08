@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-0": {
+			"Entities": "src"
+		}
+	},
+    "require": {
+        "doctrine/orm": "2.4.*"
+    }
+}
